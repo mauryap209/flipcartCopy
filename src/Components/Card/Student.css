@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    list-style: none;
+}
+
+.card1 {
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: aquamarine;
+    width: 23%;
+    margin: 10px;
+    overflow: hidden;
+    /* text-align: center; */
+    position: relative;
+    
+}
+
+.head {
+    background-color: teal;
+    font-size: 20px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.img1 {
+    height: 80px;
+    width: 80px;
+   border-radius: 50%;  
+}
+.col{
+    color: orange;
+    
+
+}

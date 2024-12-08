@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: aquamarine;
+    width: 17rem;
+    height: auto;
+    margin: 10px;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+}
+
+.id {
+    color: orange;
+}
+
+.wel {
+    text-align: center;
+    background-color: teal;
+    width: 100%;
+    color: whitesmoke;
+}
+
+
+.img{
+    height: 18vh;
+    width: 15vh;
+    /* position: absolute; */
+    text-align: center;
+   border-radius: 50%;
+   margin: 5px;
+   cursor: pointer;
+ 
+}
+.img:hover{
+    transform: rotate3d(360deg);
+}

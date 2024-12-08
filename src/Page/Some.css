@@ -1,0 +1,70 @@
+/* Laptop, Electroni, Shoose, Tv, Mobile, Common Code Start */
+.div1{
+    height: auto;
+    width: 15rem;
+}
+.img11{
+    height: 100px;
+    width: auto;
+}
+.btn1{
+    padding: 5px;
+    margin: 5px;
+   background-color:lightsteelblue;
+   font-weight: bold;
+   border-radius: 10px;
+   color:black;
+}
+.btn1:hover{
+    background-color: white;
+    transition: all 0.3s;
+}
+.btn2{
+    background-color: orange;
+}
+.btn3{
+    background-color: orange;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+    height: auto !important;
+    width: auto;
+}
+
+
+
+
+/* Laptop, Electroni, Shoose, Tv, Mobile, Common Code End */
+
+
+/* Music and Video Start */
+ .music{
+     height: auto;
+     width: 25rem;
+ }
+ .img12{
+    height: 200px;
+    width:250px;
+ }
+ .audio1{
+    height: auto;
+    width: 8rem;
+ }
+ .audio1 .img15{
+    height:50px !important;
+    width: 100% !important;
+ }
+
+ 
+ .div12{
+    margin-top: 10px;
+    padding: 10px;
+    height: 15rem;
+    width: 15rem;
+    display: inline-block !important;
+ }
+
+
+/* Music and Video End*/
+
+
